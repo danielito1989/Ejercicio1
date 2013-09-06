@@ -1,0 +1,1 @@
+'Para la instalaci¢n, en funci¢n del sistema operativo, tendremos que realizar m s o menos operaciones, el objetivo no es compilar nosotros el c¢digo con lo que nos descargaremos una empaquetaci¢n del mismo lista para instalar' 
